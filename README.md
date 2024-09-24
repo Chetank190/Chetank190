@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Chetan Kumar  
+
+Welcome to my GitHub profile! I'm a Data Specialist with a passion for machine learning, data analysis, and automation. I enjoy building innovative solutions that transform complex data into actionable insights and business value.  
 
 <!--
 **Chetank190/Chetank190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
