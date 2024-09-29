@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a **Data Specialist** with a passion for **mac
 ### 🔧 Technical Skills  
 - **Programming Languages:** `Python`, `R`, `SQL`  
 - **Machine Learning:** Regression Modeling, Random Forest, XGBoost, NLP, K-means Clustering, Feature Extraction (PCA, Factor Analysis)  
-- **Data Visualization:** Tableau, Power BI, Matplotlib, ggplot2  
-- **Cloud Services:** Azure ML Studio, Azure Cognitive Services  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, ggplot2, Streamlit   
+- **Cloud Services:** Azure ML Studio, Azure Cognitive Services, GCP
 - **Other Tools:** JupyterLab, Docker, Git, Unix Shell  
 
 ---
